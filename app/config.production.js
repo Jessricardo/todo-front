@@ -1,4 +1,4 @@
-const API_PATH = process.env.API || 'http://localhost:8080';
+const API_PATH = process.env.API || 'https://centro-203603.appspot.com';
 // const API_PATH = process.env.API || 'http://localhost:3001';
 const stage = process.env.STAGE || process.env.NODE_ENV || 'production';
 const config = {

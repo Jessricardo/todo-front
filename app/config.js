@@ -1,5 +1,5 @@
 import configDev from './config.development';
-import configStaging from './config.staging';
+import configStaging from './config.production';
 import configProd from './config.production';
 
 let config; //eslint-disable-line
